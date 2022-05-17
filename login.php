@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <form class="form" action="logar.php">
+    <form class="form" action="logar.php" method="POST">
         <div class="card">
             <div class="card-top">
                 <img src="#" alt="">
